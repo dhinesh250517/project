@@ -50,7 +50,7 @@ nav ul li a {
 section {
     padding: 20px;
     margin: 20px;
-    background: #ff7979;
+    background: #fff8f8;
     border-radius: 5px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
     animation: zoomIn 1.5s ease-in-out;
